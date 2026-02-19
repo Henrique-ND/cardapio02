@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 32,
+    "precoAnterior": 35.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 2,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 33,
+    "precoAnterior": 35.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 3,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 5,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 6,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 7,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 8,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 9,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 10,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 11,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 12,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 13,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 14,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 15,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 16,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 17,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 18,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 19,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 20,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 21,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 22,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 23,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 24,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 25,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 26,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 27,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 28,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 29,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 30,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 31,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 32,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 33,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 34,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 35,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 36,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 37,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 38,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 39,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 40,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 41,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 42,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 43,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 44,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 45,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 46,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 47,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 48,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 49,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 50,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 51,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 52,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 53,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 54,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 55,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 56,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 57,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 58,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 59,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 60,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 61,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 62,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 63,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 64,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 65,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 66,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 67,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 68,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 69,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 70,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 71,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 72,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 73,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 74,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 75,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 76,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 77,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 78,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 79,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 80,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 81,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 82,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 83,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 84,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 85,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 86,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 87,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 88,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 89,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 90,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 91,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 92,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 93,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 94,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 95,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 96,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 97,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 98,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 99,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 100,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 101,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 102,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 103,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 104,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 105,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 106,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 107,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 108,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 109,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 110,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 111,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 112,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 113,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 114,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 115,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 116,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 117,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 118,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 119,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 120,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 121,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 122,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 123,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 124,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 125,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 126,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 127,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 128,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 129,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 130,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 131,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 132,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 133,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 134,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 135,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 136,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 137,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 138,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 139,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 140,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 141,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 142,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 143,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 144,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 145,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 146,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 147,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 148,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 149,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 150,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 151,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 152,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 153,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 154,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 155,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": true,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 156,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 157,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 158,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 159,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 160,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 161,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 162,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 163,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 164,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 165,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 166,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 167,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 168,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 169,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 170,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 171,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 172,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 173,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 174,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 175,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 176,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 177,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 178,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 179,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 180,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 181,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 182,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 183,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 184,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 185,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 186,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 187,
+    "categoria": "Teste Categoria",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 188,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 189,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 190,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 191,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 192,
+    "categoria": "Lanches",
+    "nome": "Bacon Blast",
+    "descricao": "Muito bacon crocante, barbecue e carne artesanal.",
+    "precoAtual": 34,
+    "precoAnterior": 29.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 193,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 194,
+    "categoria": "Bebidas",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 195,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  },
+  {
+    "id": 196,
+    "categoria": "Lanches",
+    "nome": "Cheese Burger",
+    "descricao": "Pão brioche, carne 160g e queijo cheddar.",
+    "precoAtual": 24.5,
+    "precoAnterior": 22,
+    "promocao": true,
+    "img": "imagens/1.jpg"
+  },
+  {
+    "id": 197,
+    "categoria": "Teste 03",
+    "nome": "Teste Nome do Produto",
+    "descricao": "Teste Descrição do Produto.",
+    "precoAtual": 99.9,
+    "precoAnterior": 129.9,
+    "promocao": true,
+    "img": "imagens/2.jpg"
+  },
+  {
+    "id": 198,
+    "categoria": "Teste 01",
+    "nome": "Suco de Laranja",
+    "descricao": "Natural da fruta, 400ml sem açúcar.",
+    "precoAtual": 12,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/3.jpg"
+  },
+  {
+    "id": 199,
+    "categoria": "Teste 02",
+    "nome": "Coca-Cola",
+    "descricao": "Lata 350ml bem gelada.",
+    "precoAtual": 4,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/4.jpg"
+  },
+  {
+    "id": 200,
+    "categoria": "Sobremesas",
+    "nome": "Brownie",
+    "descricao": "Brownie de chocolate belga com nozes.",
+    "precoAtual": 15,
+    "precoAnterior": 0,
+    "promocao": false,
+    "img": "imagens/5.jpg"
+  }
+]
